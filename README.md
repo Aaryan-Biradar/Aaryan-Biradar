@@ -23,6 +23,7 @@ Welcome to my GitHub! I’m a computer science student with a passion for innova
 - Expanding my skills in **full-stack development**  
 - Creative outlets like **video editing** and **rock climbing** 🧗  
 
+---
 
 ### 🤝 Let’s Build Together!  
 I’m always open to exciting collaborations, innovative projects, and conversations about technology and beyond. Let’s connect and make an impact!  
