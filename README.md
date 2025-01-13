@@ -4,13 +4,6 @@ Welcome to my GitHub! I’m a computer science student with a passion for innova
 
 ---
 
-### 💡 Who Am I?  
-- A **problem-solver** who loves turning challenges into elegant solutions  
-- A **team player** with leadership experience in hackathons and teaching roles  
-- A **lifelong learner** always diving into new technologies and concepts  
-
----
-
 ### 🛠️ Skills Snapshot  
 **Languages:** Python, C++, Java, TypeScript  
 **Technologies:** React.js, Arduino, OpenCV, Pygame  
@@ -30,14 +23,6 @@ Welcome to my GitHub! I’m a computer science student with a passion for innova
 - Expanding my skills in **full-stack development**  
 - Creative outlets like **video editing** and **rock climbing** 🧗  
 
----
-
-### 🎮 When I’m Not Coding...  
-- Strength training and staying active 💪  
-- Playing video games to recharge 🎮  
-- Sharing knowledge through mentorship or creating study resources 📚  
-
----
 
 ### 🤝 Let’s Build Together!  
 I’m always open to exciting collaborations, innovative projects, and conversations about technology and beyond. Let’s connect and make an impact!  
