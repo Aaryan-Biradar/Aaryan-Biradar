@@ -1,34 +1,32 @@
-# Hello There! 👋  
+# Hey there! 👋
 
-Welcome to my GitHub! I’m a computer science student with a passion for innovation, problem-solving, and exploring the vast world of AI/ML. Whether it’s designing user-friendly applications or building autonomous robots, I’m always eager to learn, create, and contribute.  
+Welcome to my GitHub! I’m Aaryan, a Computer Science student who loves building things that are both fun and useful. Whether it's building AI tools, robotics projects, or redesigning web apps, I'm always trying to learn something new and level up.
 
 ---
 
-### 🛠️ Skills Snapshot  
+### 🛠️ Quick Skills Snapshot
 **Languages:** Python, C++, Java, TypeScript  
 **Technologies:** React.js, Arduino, OpenCV, Pygame  
-**Specialties:** AI/ML, robotics, full-stack development  
+**Interests:** AI/ML, robotics, full-stack development  
 
 ---
 
-### 🚀 Highlights & Achievements  
-- 🏆 **Hack the Tunnels Winner:** Redesigned Carleton University's web application for improved user experience  
-- 🤖 **Robotics Enthusiast:** Built a line-following robot using Arduino and RGB sensors  
-- 🔍 **AI Innovator:** Created a distraction-monitoring app using Python and OpenCV to boost productivity  
+### 🚀 Cool Stuff I’ve Worked On
+- 🏆 **Hack the Tunnels Winner** — Helped redesign Carleton University's student portal using React + TypeScript  
+- 🤖 **Robotics Project** — Built a line-following robot with Arduino + RGB sensors  
+- 🔍 **AI Focus Tracker** — Created a distraction-monitoring app with OpenCV to help people stay productive  
 
 ---
 
-### 🌱 What I’m Exploring Now  
-- Advanced **AI algorithms** and robotics projects  
-- Expanding my skills in **full-stack development**  
-- Creative outlets like **video editing** and **rock climbing** 🧗  
+### 🌱 Currently Into
+- Messing around with **AI algorithms** and small robotics builds  
+- Getting better at **full-stack development**  
+- Having fun with side hobbies like **video editing** and **rock climbing** 🧗  
 
 ---
 
-### 🤝 Let’s Build Together!  
-I’m always open to exciting collaborations, innovative projects, and conversations about technology and beyond. Let’s connect and make an impact!  
+### 🤝 Let’s Connect!
+Always down to collaborate on something cool or chat about tech, learning, and ideas in general.
 
 - **LinkedIn:** [linkedin.com/in/Aaryan-Biradar](https://linkedin.com/in/Aaryan-Biradar)  
-- **Email:** [aaryan.biradar@outlook.com](aaryan.biradar@outlook.com)  
-
----
+- **Email:** aaryan.biradar@outlook.com
